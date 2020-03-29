@@ -1,4 +1,2 @@
 # assignment1A
 Repository for Assignment 1A
-HELLO THIS EDIT WAS MADE IN A NEW BRANCH!
-THIS BRANCH IS CALLED 'FEATURE'
