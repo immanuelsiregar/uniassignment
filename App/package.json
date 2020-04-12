@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "An app file to test node.js",
+  "main": "app.js",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "uniassignment"
+  },
+  "author": "Christian",
+  "license": "ISC"
+}
